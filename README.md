@@ -29,7 +29,7 @@ This is a simple Flutter app built for Flutter Developer Internship at High Tech
 2. Run `flutter pub get`.
 3. Add the following permissions:
 
-# droid (`AndroidManifest.xml`)
+# Android (`AndroidManifest.xml`)
 ```xml
 <uses-permission android:name="android.permission.POST_NOTIFICATIONS"/>
 
