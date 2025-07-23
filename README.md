@@ -1,5 +1,3 @@
-# notification_service_app
-
 # Flutter Local Notifications App 
 
 This is a simple Flutter app built for Flutter Developer Internship at High Tech Software House.
