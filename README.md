@@ -1,6 +1,6 @@
 # Notification_Service_App
 
-This is a simple Flutter app built for **Flutter Developer Internship – Task 12** at High Tech Software House.
+This is a simple Flutter app built for Flutter Developer Internship at High Tech Software House.
 
 # Features Implemented
 
